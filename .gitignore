@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+!.env.example
+
+/.vscode/
+/scratch/
+/backend/scratch/
+/backend/DOCTORS_CREDENTIALS.md
+/backend/public/
